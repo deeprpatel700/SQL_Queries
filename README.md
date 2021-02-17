@@ -1,3 +1,3 @@
 # SQL_Queries
 
-In Progress. Will be updated soon. Please check back later.
+In Progress. Will be updated periodically with more queries.
